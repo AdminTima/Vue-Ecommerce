@@ -1,0 +1,18 @@
+.block-shadow_blue {
+    box-shadow: 0 2px 9px 7px lightskyblue;
+}
+.block-shadow_green {
+    box-shadow: 0 2px 9px 7px lightseagreen;
+}
+
+.block_bordered {
+    border: 2px solid;
+    border-radius: 10px;
+}
+
+.border-blue {
+    border-color: deepskyblue;
+}
+
+
+

@@ -1,0 +1,22 @@
+.image_round {
+    border-radius: 50%;
+}
+
+.image {
+    border: 2px solid;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+.image_small {
+    width: 150px;
+    height: 150px;
+}
+
+.image_medium {
+    width: 250px;
+    height: 250px;
+}
+
+
+

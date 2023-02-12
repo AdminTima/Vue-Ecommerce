@@ -1,0 +1,14 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 10px;
+    /*box-shadow: 0 2px 10px 7px rgba(0, 0, 0, 0.6);*/
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.form-shadow {
+    box-shadow: 0 2px 9px 7px lightskyblue;
+}

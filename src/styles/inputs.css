@@ -1,0 +1,14 @@
+.textarea {
+    padding: 3px 6px;
+    border: 3px solid lime;
+    border-radius: 10px;
+    font-size: 23px;
+}
+
+.input {
+    border: 3px solid lightseagreen;
+    border-radius: 10px;
+    padding: 4px 8px;
+    font-size: 23px;
+    text-align: center;
+}

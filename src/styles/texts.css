@@ -1,0 +1,23 @@
+.header {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.subheader {
+    font-size: 25px;
+}
+
+.text_ordinary {
+    font-size: 20px;
+}
+
+.form__label {
+    font-size: 20px;
+    font-style: italic;
+}
+
+.error {
+    font-size: 23px;
+    color: firebrick;
+}
+
